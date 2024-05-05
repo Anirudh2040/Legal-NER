@@ -3,3 +3,5 @@ Named Entities Recognition is commonly studied problem in Natural Language Proce
 The following image shows the famous named entities in legal text.
 ![image](https://github.com/Anirudh2040/Legal-NER/assets/95646144/46f06292-c324-4c02-94ad-f9cfaa7377c2)
 
+The code file is attached along with the datasets. You can change the path of files in the code accordingly. Everything is present in the code itself
+
